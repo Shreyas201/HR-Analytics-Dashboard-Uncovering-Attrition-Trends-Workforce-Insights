@@ -52,3 +52,7 @@ The dashboard includes the following key HR metrics:
 - Feel free to reach out if you have any questions or suggestions:
 https://www.linkedin.com/in/shreyasainapur201/
 
+## 📚 References & Credits
+- This project was inspired by the following YouTube tutorial:
+https://www.youtube.com/watch?v=oAIubTqg-Kw
+
